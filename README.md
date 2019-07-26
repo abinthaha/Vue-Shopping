@@ -1,4 +1,5 @@
 # my-project
+Sample application using VueJS. The data passing between components have been implemented.
 
 ## Project setup
 ```
